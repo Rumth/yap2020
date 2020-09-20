@@ -11,3 +11,16 @@
 /home/ruth/WORK/work/obj/Debug/netcoreapp3.1/work.dll
 /home/ruth/WORK/work/obj/Debug/netcoreapp3.1/work.pdb
 /home/ruth/WORK/work/obj/Debug/netcoreapp3.1/work.genruntimeconfig.cache
+/home/ruth/WORK/reposit/prakt_1/bin/Debug/netcoreapp3.1/work
+/home/ruth/WORK/reposit/prakt_1/bin/Debug/netcoreapp3.1/work.deps.json
+/home/ruth/WORK/reposit/prakt_1/bin/Debug/netcoreapp3.1/work.runtimeconfig.json
+/home/ruth/WORK/reposit/prakt_1/bin/Debug/netcoreapp3.1/work.runtimeconfig.dev.json
+/home/ruth/WORK/reposit/prakt_1/bin/Debug/netcoreapp3.1/work.dll
+/home/ruth/WORK/reposit/prakt_1/bin/Debug/netcoreapp3.1/work.pdb
+/home/ruth/WORK/reposit/prakt_1/obj/Debug/netcoreapp3.1/work.csprojAssemblyReference.cache
+/home/ruth/WORK/reposit/prakt_1/obj/Debug/netcoreapp3.1/work.AssemblyInfoInputs.cache
+/home/ruth/WORK/reposit/prakt_1/obj/Debug/netcoreapp3.1/work.AssemblyInfo.cs
+/home/ruth/WORK/reposit/prakt_1/obj/Debug/netcoreapp3.1/work.csproj.CoreCompileInputs.cache
+/home/ruth/WORK/reposit/prakt_1/obj/Debug/netcoreapp3.1/work.dll
+/home/ruth/WORK/reposit/prakt_1/obj/Debug/netcoreapp3.1/work.pdb
+/home/ruth/WORK/reposit/prakt_1/obj/Debug/netcoreapp3.1/work.genruntimeconfig.cache

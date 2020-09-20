@@ -1,0 +1,13 @@
+/home/ruth/WORK/reposit/praktik_1/prakt_2/bin/Debug/netcoreapp3.1/prakt_2
+/home/ruth/WORK/reposit/praktik_1/prakt_2/bin/Debug/netcoreapp3.1/prakt_2.deps.json
+/home/ruth/WORK/reposit/praktik_1/prakt_2/bin/Debug/netcoreapp3.1/prakt_2.runtimeconfig.json
+/home/ruth/WORK/reposit/praktik_1/prakt_2/bin/Debug/netcoreapp3.1/prakt_2.runtimeconfig.dev.json
+/home/ruth/WORK/reposit/praktik_1/prakt_2/bin/Debug/netcoreapp3.1/prakt_2.dll
+/home/ruth/WORK/reposit/praktik_1/prakt_2/bin/Debug/netcoreapp3.1/prakt_2.pdb
+/home/ruth/WORK/reposit/praktik_1/prakt_2/obj/Debug/netcoreapp3.1/prakt_2.csprojAssemblyReference.cache
+/home/ruth/WORK/reposit/praktik_1/prakt_2/obj/Debug/netcoreapp3.1/prakt_2.AssemblyInfoInputs.cache
+/home/ruth/WORK/reposit/praktik_1/prakt_2/obj/Debug/netcoreapp3.1/prakt_2.AssemblyInfo.cs
+/home/ruth/WORK/reposit/praktik_1/prakt_2/obj/Debug/netcoreapp3.1/prakt_2.csproj.CoreCompileInputs.cache
+/home/ruth/WORK/reposit/praktik_1/prakt_2/obj/Debug/netcoreapp3.1/prakt_2.dll
+/home/ruth/WORK/reposit/praktik_1/prakt_2/obj/Debug/netcoreapp3.1/prakt_2.pdb
+/home/ruth/WORK/reposit/praktik_1/prakt_2/obj/Debug/netcoreapp3.1/prakt_2.genruntimeconfig.cache
